@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jozewin
+- 👀 I’m interested in App dev and Programming 
+- 🌱 I’m currently learning Engineering on cse
